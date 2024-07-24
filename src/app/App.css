@@ -1,0 +1,27 @@
+button, input, select, textarea {
+  border: none;
+  background-color: transparent;
+}
+.central_block {
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Container_container__UCC1o {
+  /* margin: 0 auto; */
+  width: 70vw;
+  /* padding: 20px; */
+}
+/* .Container_md__q_A3U {
+    max-width: 1600px;
+} */
+.SearchJokesWizard_searchJokesInput__xfVc_ {
+  width: 50%;
+  padding: 20px 35px;
+  box-shadow: 0 7px 12px 0 hsla(240, 5%, 41%, .2);
+  color: #656ec2;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
